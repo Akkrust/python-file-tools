@@ -1,0 +1,13 @@
+ОТЧЁТ ПОИСКА ФАЙЛОВ
+
+Поисковый запрос: sample1
+Расширение: .pdf
+
+Найденные файлы:
+
+C:\Users\PC\Downloads\sample1.pdf
+C:\Users\PC\Downloads\sample10.pdf
+C:\Users\PC\Downloads\PDF\sample1.pdf
+C:\Users\PC\Downloads\PDF\sample10.pdf
+
+Всего найдено: 4
